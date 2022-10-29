@@ -19,5 +19,5 @@ SR No   | Program | Author
 11 | Primes Within Range | [Ankit Ghosal](https://github.com/ankitbhoi)
 12 | ASCII Value of a Character | [Preeti Yadav](https://github.com/preeti-14-7)
 13 | Decimal to Binary Conversion | [Priyanshu Jha](https://github.com/maverickx03)
-14 | Simple Interest | [Shovon Gorain](https://github.com/shovon12j34
+14 | Simple Interest | [Shovon Gorain](https://github.com/shovon12j34)
 14 | Calculate power of a number | [Amit Kumar Mondal](https://github.com/Amit5620)
