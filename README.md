@@ -21,3 +21,4 @@ SR No   | Program | Author
 13 | Decimal to Binary Conversion | [Priyanshu Jha](https://github.com/maverickx03)
 14 | Simple Interest | [Shovon Gorain](https://github.com/shovon12j34)
 14 | Calculate power of a number | [Amit Kumar Mondal](https://github.com/Amit5620)
+15 | Calculate Factorial of a number | [Aditi Shree](https://github.com/AditiS2610)
